@@ -1,0 +1,12 @@
+This program takes a user provided measurement and converts them to a desired measurement. 
+To start, the user is asked what type of measurement they would like to do, indicated by typing
+temp, mass, length, or volume. Once their choice is made, the user is asked which measurement conversion they 
+would like and given number options corresponding to which conversion they would like. 
+Once this is chosen, the user is prompted to enter the value of the measurement. The program then converts this 
+input to the desired output. 
+If any invalid input is given, the program alerts the user that the input is invalid, and the program quits. 
+I have tested each case and confirmed each aspect of the program is working.
+
+For future expansion, I would implement a system to make this continuous. It would give the user the option to 
+convert another measurement after their first measurement without having to re-run the code. In addition, I would add
+more conversion options in each measurement category. 
